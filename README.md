@@ -15,7 +15,7 @@ To use this feed reader, follow the instructions below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/IvanPonzio/FeedReader.git
    ```
 
 2. Make sure you have Java Development Kit (JDK) installed on your system.
